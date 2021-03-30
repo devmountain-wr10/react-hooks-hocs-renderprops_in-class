@@ -18,8 +18,8 @@ const Hocs = (props) => {
       </h1>
       <BadButton />
       <BadButton darkMode />
-      <Square />
-      <Square />
+      <Square/>
+      <Square darkMode/>
     </section>
   )
 }
